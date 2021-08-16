@@ -1,10 +1,10 @@
 import React from "react";
-import SearchPanel from "../search-panel/search-panel";
+import TodoForm from "../TodoForm/TodoForm";
 
 const App = () => {
   return (
       <div>
-          <SearchPanel/>
+          <TodoForm/>
       </div>
   )
 };
