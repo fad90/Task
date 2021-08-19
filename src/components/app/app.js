@@ -1,12 +1,13 @@
 import React from "react";
-import TodoForm from "../TodoForm/TodoForm";
+import TodoList from "../TodoList/TodoList";
 
 const App = () => {
   return (
       <div>
-          <TodoForm/>
+          <TodoList /> 
       </div>
   )
 };
 
 export default App;
+
