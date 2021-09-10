@@ -1,0 +1,17 @@
+.todo-input {
+    outline: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: 300px;
+    border: 2px solid rgb(92, 28, 165);
+    font-weight: 600;
+}
+.todo-button {
+    padding: 5px 10px;
+    outline: none;
+    margin: 0 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(92, 28, 165);
+    cursor: pointer;
+    background-color: rgb(187, 132, 238);
+}

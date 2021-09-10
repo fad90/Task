@@ -1,0 +1,10 @@
+.wrapper {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header {
+    margin-top: 50px;
+    color: rgb(35, 5, 59);
+}

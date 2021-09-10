@@ -1,0 +1,31 @@
+.todo-row {
+  display: flex;
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+.todo-text {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0 5px;
+    display: flex;
+    align-items: center;
+}
+.icons {
+    display: flex;
+    justify-content: space-between;
+}
+.delete-icon {
+    background-color: rgb(230, 13, 13);
+    width: 30px;
+    height: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.edit-icon {
+    background-color: rgb(15, 240, 15);
+    width: 30px;
+    height: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
