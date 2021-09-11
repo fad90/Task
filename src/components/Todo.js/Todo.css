@@ -3,6 +3,7 @@
   margin: 5px;
   display: flex;
   justify-content: space-between;
+  width: 300px;
 }
 .todo-text {
     font-size: 20px;
@@ -28,4 +29,8 @@
     height: 25px;
     border-radius: 5px;
     cursor: pointer;
+}
+.complete {
+    text-decoration: line-through;
+    opacity: 0.4;
 }
